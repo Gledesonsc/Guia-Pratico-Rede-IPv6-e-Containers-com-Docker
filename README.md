@@ -134,4 +134,4 @@ Este guia fornece um passo a passo para criar redes IPv6, construir imagens Dock
 
 ---
 
-Este documento oferece uma visão clara e objetiva dos comandos e etapas essenciais para configurar e gerenciar redes IPv6 e containers Docker. 🚀 Utilize os emojis para facilitar a navegação pelos tópicos e etapas. Assinado, [AdaUpSoft](https://adaupsoft.com) 🌐#
+Este documento oferece uma visão clara e objetiva dos comandos e etapas essenciais para configurar e gerenciar redes IPv6 e containers Docker. 🚀 Utilize os emojis para facilitar a navegação pelos tópicos e etapas. Assinado, [AdaUpSoft](https://adaupsoft.com) 🌐
